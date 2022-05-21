@@ -17,7 +17,6 @@ img {
     background-color: bisque;
     padding: 50px;
     border: solid 2px black;
-    display: flex;
 }
 
 #spanId {
@@ -26,7 +25,7 @@ img {
 }
 
 div {
-    display: grid;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
